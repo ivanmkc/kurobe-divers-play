@@ -1,0 +1,256 @@
+{
+ "commit": "f1e97def00df523f78eed7eaedb388d48bdc982c",
+ "built": "2026-10-23T23:06:44Z",
+ "merged": [
+  {
+   "mergedAt": "2026-10-23T22:56:49Z",
+   "number": 484,
+   "title": "Name the winning engines on the LimeZu review page"
+  },
+  {
+   "mergedAt": "2026-10-23T22:11:27Z",
+   "number": 483,
+   "title": "Add a graph-coloring LimeZu district engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-23T21:47:47Z",
+   "number": 481,
+   "title": "Add a bin-packing LimeZu placement engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-23T21:27:24Z",
+   "number": 482,
+   "title": "Add a Truchet tile LimeZu path engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-23T21:07:02Z",
+   "number": 480,
+   "title": "Add a squarified treemap LimeZu parcel engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-23T20:21:01Z",
+   "number": 479,
+   "title": "Add a force-directed LimeZu village engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-23T20:02:02Z",
+   "number": 478,
+   "title": "Switch the NBP study to protocol v2: fixed sheets, varied prompt"
+  },
+  {
+   "mergedAt": "2026-10-22T00:04:12Z",
+   "number": 477,
+   "title": "Add a space-filling curve LimeZu market engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T23:54:04Z",
+   "number": 473,
+   "title": "Add an MST utility-network LimeZu placement engine with deck"
+  },
+  {
+   "mergedAt": "2026-10-21T23:24:46Z",
+   "number": 476,
+   "title": "Add a circle-packing LimeZu placement engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T23:04:43Z",
+   "number": 475,
+   "title": "Add a Markov random field LimeZu placement engine with three candidates"
+  },
+  {
+   "mergedAt": "2026-10-21T22:44:48Z",
+   "number": 471,
+   "title": "Add a particle swarm LimeZu prop placement engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T22:35:29Z",
+   "number": 474,
+   "title": "Add a genetic algorithm LimeZu block density engine and its deck"
+  },
+  {
+   "mergedAt": "2026-10-21T22:17:55Z",
+   "number": 472,
+   "title": "Add an A* road LimeZu placement engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T21:50:13Z",
+   "number": 469,
+   "title": "Add a site percolation LimeZu placement engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T21:30:06Z",
+   "number": 467,
+   "title": "Add an Ising-model district zoning LimeZu engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T21:10:17Z",
+   "number": 470,
+   "title": "Add a Penrose P3 plaza LimeZu placement engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T20:50:06Z",
+   "number": 465,
+   "title": "Add a Bezier spline LimeZu road engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T20:20:33Z",
+   "number": 468,
+   "title": "Add a random prefab placer for walkable LimeZu scenes"
+  },
+  {
+   "mergedAt": "2026-10-21T19:46:21Z",
+   "number": 466,
+   "title": "Add a K-Means district LimeZu placement engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T19:19:07Z",
+   "number": 458,
+   "title": "Add a metaball POI-cluster LimeZu placement engine with deck"
+  },
+  {
+   "mergedAt": "2026-10-21T18:56:27Z",
+   "number": 463,
+   "title": "Add a CSG LimeZu placement engine, three layouts and their deck"
+  },
+  {
+   "mergedAt": "2026-10-21T18:31:41Z",
+   "number": 464,
+   "title": "Add a Physarum slime-mould road engine for LimeZu parks, with deck"
+  },
+  {
+   "mergedAt": "2026-10-21T18:12:26Z",
+   "number": 462,
+   "title": "Add a space colonization LimeZu park engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T17:48:08Z",
+   "number": 461,
+   "title": "Add an RRT path-network LimeZu placement engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T17:21:25Z",
+   "number": 459,
+   "title": "Add a Wang tile LimeZu placement engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T16:56:12Z",
+   "number": 453,
+   "title": "Add a hydraulic erosion LimeZu placement engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T16:42:50Z",
+   "number": 460,
+   "title": "Commit missing .png.import files for 22 LimeZu terrain scenes"
+  },
+  {
+   "mergedAt": "2026-10-21T16:30:28Z",
+   "number": 457,
+   "title": "Add a random-walk LimeZu placement engine for winding paths"
+  },
+  {
+   "mergedAt": "2026-10-21T16:06:46Z",
+   "number": 456,
+   "title": "Add an ant-colony trail LimeZu placement engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T15:46:49Z",
+   "number": 448,
+   "title": "Add a quadtree zoning LimeZu placement engine, city scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T15:17:35Z",
+   "number": 455,
+   "title": "Add a Gray-Scott reaction-diffusion LimeZu engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T14:53:28Z",
+   "number": 451,
+   "title": "Add a marching squares LimeZu terrain engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T14:41:02Z",
+   "number": 454,
+   "title": "Fix limezu coverage page drift and read-only grammar_gen test"
+  },
+  {
+   "mergedAt": "2026-10-21T14:28:46Z",
+   "number": 452,
+   "title": "Add a Diamond-Square heightmap LimeZu engine with terraces and stairs"
+  },
+  {
+   "mergedAt": "2026-10-21T14:02:40Z",
+   "number": 450,
+   "title": "Add a Boids flocking LimeZu park engine with scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T13:31:16Z",
+   "number": 449,
+   "title": "Add a Delaunay street placement engine for LimeZu with its deck"
+  },
+  {
+   "mergedAt": "2026-10-21T13:11:09Z",
+   "number": 447,
+   "title": "Add a rigid body settling LimeZu placement engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T12:41:45Z",
+   "number": 442,
+   "title": "Add a tensor-field street-network LimeZu placement engine and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T12:23:54Z",
+   "number": 437,
+   "title": "Play the LimeZu street under rain, dust and fog particles"
+  },
+  {
+   "mergedAt": "2026-10-21T12:05:08Z",
+   "number": 445,
+   "title": "Add a recursive lot subdivision LimeZu engine, district and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T11:46:34Z",
+   "number": 446,
+   "title": "Add a simulated annealing LimeZu block layout engine and its deck"
+  },
+  {
+   "mergedAt": "2026-10-21T11:29:07Z",
+   "number": 444,
+   "title": "Add a flow-field desire-path park engine for LimeZu with deck"
+  },
+  {
+   "mergedAt": "2026-10-21T11:09:56Z",
+   "number": 443,
+   "title": "Add a maze-generation LimeZu placement engine for dense alleys"
+  },
+  {
+   "mergedAt": "2026-10-21T10:45:51Z",
+   "number": 441,
+   "title": "Add a Voronoi district placement engine for LimeZu with its deck"
+  },
+  {
+   "mergedAt": "2026-10-21T10:28:35Z",
+   "number": 440,
+   "title": "Add a masked tile transformer on the NBP dataset with playable scenes"
+  },
+  {
+   "mergedAt": "2026-10-21T10:09:32Z",
+   "number": 426,
+   "title": "Add BSP interior floorplan experiment for LimeZu packs (F5f2722)"
+  },
+  {
+   "mergedAt": "2026-10-21T09:50:52Z",
+   "number": 433,
+   "title": "Add a DLA ruins LimeZu placement engine, scenes and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T09:25:53Z",
+   "number": 427,
+   "title": "Add a Poisson disk LimeZu placement engine, park scene and deck"
+  },
+  {
+   "mergedAt": "2026-10-21T08:55:47Z",
+   "number": 436,
+   "title": "Add a multi-octave noise biome LimeZu placement engine and deck"
+  }
+ ]
+}
