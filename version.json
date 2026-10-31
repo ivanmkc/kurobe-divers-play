@@ -1,0 +1,256 @@
+{
+ "commit": "68547ae9f220957bb0af10e0883fe2d455c6023a",
+ "built": "2026-10-31T18:12:17Z",
+ "merged": [
+  {
+   "mergedAt": "2026-10-31T17:55:28Z",
+   "number": 537,
+   "title": "Play the raid and Test Scenes in one persistent LimeZu sector"
+  },
+  {
+   "mergedAt": "2026-10-31T11:50:38Z",
+   "number": 536,
+   "title": "Add LimezuWorldView to draw a LimeZu sector on the packs' TileSets"
+  },
+  {
+   "mergedAt": "2026-10-31T10:02:13Z",
+   "number": 535,
+   "title": "Add LimezuSectorMapAdapter to turn a LimeZu sector into a SectorMap"
+  },
+  {
+   "mergedAt": "2026-10-31T08:23:06Z",
+   "number": 534,
+   "title": "Theme Debrief, In-Raid Map, Lab chrome and stash card with LimeZu UI"
+  },
+  {
+   "mergedAt": "2026-10-31T06:49:21Z",
+   "number": 533,
+   "title": "Add LimezuWorldBuilder: sector layout filled with LimeZu tiles by WFC"
+  },
+  {
+   "mergedAt": "2026-10-31T05:43:42Z",
+   "number": 532,
+   "title": "Theme the raid HUD with the LimeZu Modern User Interface"
+  },
+  {
+   "mergedAt": "2026-10-31T04:52:54Z",
+   "number": 530,
+   "title": "Join interior wall corners to the side walls under them"
+  },
+  {
+   "mergedAt": "2026-10-31T04:32:07Z",
+   "number": 529,
+   "title": "Add LimezuSectorLayout: quadtree zoning plus BSP rooms as a tag grid"
+  },
+  {
+   "mergedAt": "2026-10-31T04:08:11Z",
+   "number": 531,
+   "title": "Theme lobby cards with the LimeZu Modern User Interface"
+  },
+  {
+   "mergedAt": "2026-10-31T03:42:43Z",
+   "number": 528,
+   "title": "Add LimezuComposer to resolve grammar tile strings into pack TileSets"
+  },
+  {
+   "mergedAt": "2026-10-31T01:55:51Z",
+   "number": 527,
+   "title": "Theme the title screen with the LimeZu Modern User Interface"
+  },
+  {
+   "mergedAt": "2026-10-31T01:42:34Z",
+   "number": 526,
+   "title": "Give two-row interior faces a side wall piece per face row"
+  },
+  {
+   "mergedAt": "2026-10-31T01:26:32Z",
+   "number": 525,
+   "title": "Port class-constrained LimeZu WFC to GDScript, shown in the Lab"
+  },
+  {
+   "mergedAt": "2026-10-31T01:07:12Z",
+   "number": 523,
+   "title": "Port the BSP floorplan engine to GDScript and show it in the Lab"
+  },
+  {
+   "mergedAt": "2026-10-31T00:37:42Z",
+   "number": 524,
+   "title": "Port quadtree zoning to GDScript and show it in the Design Lab"
+  },
+  {
+   "mergedAt": "2026-10-31T00:14:35Z",
+   "number": 522,
+   "title": "Key shape-suite baseline findings by place, not by their text"
+  },
+  {
+   "mergedAt": "2026-10-30T23:54:32Z",
+   "number": 521,
+   "title": "Vendor the Modern User Interface 16x16 sheets and license"
+  },
+  {
+   "mergedAt": "2026-10-30T22:57:35Z",
+   "number": 520,
+   "title": "Commit Modern Exteriors and Interiors TileSets, sources split to .res"
+  },
+  {
+   "mergedAt": "2026-10-30T22:38:32Z",
+   "number": 519,
+   "title": "Give interior wall T-joints their own tee pieces"
+  },
+  {
+   "mergedAt": "2026-10-30T19:19:32Z",
+   "number": 518,
+   "title": "Dress Divers in LimeZu premade characters; Matter as pack placeholders"
+  },
+  {
+   "mergedAt": "2026-10-30T18:04:38Z",
+   "number": 517,
+   "title": "Build one LimeZu TileSet per pack; commit Office and Farm"
+  },
+  {
+   "mergedAt": "2026-10-30T17:42:30Z",
+   "number": 516,
+   "title": "Gate interior wall seams with a pixel shape suite and a baseline"
+  },
+  {
+   "mergedAt": "2026-10-30T15:49:11Z",
+   "number": 514,
+   "title": "Offer each interior room kind its own wall styles first"
+  },
+  {
+   "mergedAt": "2026-10-30T15:07:35Z",
+   "number": 515,
+   "title": "Vendor the LimeZu 16x16 sheets, licenses and a manifest"
+  },
+  {
+   "mergedAt": "2026-10-30T12:33:36Z",
+   "number": 511,
+   "title": "Lay interior walls from labelled per-style pieces, not a learned table"
+  },
+  {
+   "mergedAt": "2026-10-30T10:57:58Z",
+   "number": 512,
+   "title": "Keep interior floor off the south wall row and its doorway"
+  },
+  {
+   "mergedAt": "2026-10-30T10:36:57Z",
+   "number": 513,
+   "title": "Lay counters, shelves and desks as whole runs; lint lone pieces"
+  },
+  {
+   "mergedAt": "2026-10-28T15:24:49Z",
+   "number": 510,
+   "title": "Back off interior wall picks to roles and the style's 3d-wall family"
+  },
+  {
+   "mergedAt": "2026-10-28T08:37:12Z",
+   "number": 509,
+   "title": "Make tools/playtest.gd the playthrough gate: out dir, solo and coop4"
+  },
+  {
+   "mergedAt": "2026-10-28T08:01:03Z",
+   "number": 508,
+   "title": "Interiors: lay walls from a room class map with a learned case table"
+  },
+  {
+   "mergedAt": "2026-10-28T07:13:30Z",
+   "number": 507,
+   "title": "Draw growth as thin curved strands with painted alpha"
+  },
+  {
+   "mergedAt": "2026-10-28T05:33:07Z",
+   "number": 505,
+   "title": "Repair stamped scenes per layer on scene.py's y-sorted object list"
+  },
+  {
+   "mergedAt": "2026-10-28T05:22:08Z",
+   "number": 506,
+   "title": "Mine adjacency rules from pack designs as lint; add surprise score"
+  },
+  {
+   "mergedAt": "2026-10-28T05:10:36Z",
+   "number": 503,
+   "title": "Add a procedural Wang growth overlay to tilegrid themes"
+  },
+  {
+   "mergedAt": "2026-10-28T04:44:54Z",
+   "number": 502,
+   "title": "Keep tile-grid objects as a list, y-sorted by footprint base"
+  },
+  {
+   "mergedAt": "2026-10-28T04:01:43Z",
+   "number": 504,
+   "title": "Stack overlay tiles per cell so stamps never overwrite each other"
+  },
+  {
+   "mergedAt": "2026-10-28T03:01:05Z",
+   "number": 500,
+   "title": "Add tile taxonomy, object-first labels and tag-derived lint sets"
+  },
+  {
+   "mergedAt": "2026-10-28T02:51:00Z",
+   "number": 501,
+   "title": "Size indoor rooms per room kind instead of a fixed 20x15 grid"
+  },
+  {
+   "mergedAt": "2026-10-28T01:47:09Z",
+   "number": 499,
+   "title": "iterate.py: paired acceptance, patience 5, critic consensus 3"
+  },
+  {
+   "mergedAt": "2026-10-27T19:31:01Z",
+   "number": 498,
+   "title": "Port restyle_theme.py: pack tiles restyled in place per theme"
+  },
+  {
+   "mergedAt": "2026-10-27T17:13:17Z",
+   "number": 497,
+   "title": "Port the bridge's R27 stretch tools extend, newasset and restyle"
+  },
+  {
+   "mergedAt": "2026-10-27T15:50:12Z",
+   "number": 496,
+   "title": "Port submaps.py and submaps_model.py: sub-tile collision and height"
+  },
+  {
+   "mergedAt": "2026-10-27T15:30:28Z",
+   "number": 495,
+   "title": "Port the bridge's R27 stopping-rule tools curve.py and curverounds.py"
+  },
+  {
+   "mergedAt": "2026-10-27T14:47:22Z",
+   "number": 494,
+   "title": "Port tilegrid artifact checks, water fix and 30-round loop"
+  },
+  {
+   "mergedAt": "2026-10-27T11:07:37Z",
+   "number": 493,
+   "title": "Port the bridge's Modern Interiors tile grids into tilegrid"
+  },
+  {
+   "mergedAt": "2026-10-27T10:19:33Z",
+   "number": 492,
+   "title": "Port navvid walk-through videos and iterate.py --nav nav defects"
+  },
+  {
+   "mergedAt": "2026-10-27T09:33:54Z",
+   "number": 491,
+   "title": "Port the bridge's hybrid stamp generation to the R27 tile grids"
+  },
+  {
+   "mergedAt": "2026-10-27T08:52:11Z",
+   "number": 490,
+   "title": "Port the bridge's v5 tile-grid loop, stamp-aware lint and rejects"
+  },
+  {
+   "mergedAt": "2026-10-26T21:32:49Z",
+   "number": 489,
+   "title": "Count arm A tile grids as R27 round 2 and fix two loop bugs"
+  },
+  {
+   "mergedAt": "2026-10-26T20:34:32Z",
+   "number": 488,
+   "title": "Productionize R27 arm A tile-id grids with the defect loop"
+  }
+ ]
+}
