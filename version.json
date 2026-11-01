@@ -1,0 +1,256 @@
+{
+ "commit": "56776ff5564ad3e175e8564bbcf5a9698e4cfae8",
+ "built": "2026-11-01T21:13:18Z",
+ "merged": [
+  {
+   "mergedAt": "2026-11-01T20:58:37Z",
+   "number": 556,
+   "title": "Retire the Design Lab studies and families that drew assets/world"
+  },
+  {
+   "mergedAt": "2026-11-01T19:18:05Z",
+   "number": 553,
+   "title": "Repoint WorldInteractions and coop_screen off WorldChunk"
+  },
+  {
+   "mergedAt": "2026-11-01T19:02:22Z",
+   "number": 555,
+   "title": "Repoint LightView and WeatherView to the LimeZu sector layout"
+  },
+  {
+   "mergedAt": "2026-11-01T18:48:42Z",
+   "number": 554,
+   "title": "Drop WorldChunk from RaidWorld and SectorMap"
+  },
+  {
+   "mergedAt": "2026-11-01T17:15:57Z",
+   "number": 552,
+   "title": "Crawl the Play build for non-LimeZu textures and commit the report"
+  },
+  {
+   "mergedAt": "2026-11-01T14:35:26Z",
+   "number": 551,
+   "title": "Delete assets/generated, the retired generated sprites"
+  },
+  {
+   "mergedAt": "2026-11-01T12:59:26Z",
+   "number": 550,
+   "title": "Remove GeneratedArt and SheetTexture, the last readers of generated art"
+  },
+  {
+   "mergedAt": "2026-11-01T11:35:41Z",
+   "number": 549,
+   "title": "Retire Palette, PixelGrid and the palette-quantizing kit tooling"
+  },
+  {
+   "mergedAt": "2026-11-01T06:50:59Z",
+   "number": 548,
+   "title": "Delete the Design Lab studies of generated art, with their tests"
+  },
+  {
+   "mergedAt": "2026-11-01T06:30:14Z",
+   "number": 547,
+   "title": "Restore walkthrough.step() stub test; fix stale segpaint paths"
+  },
+  {
+   "mergedAt": "2026-11-01T05:02:43Z",
+   "number": 546,
+   "title": "Delete tools/segpaint; keep the seg-map format and walk in tools/scenes"
+  },
+  {
+   "mergedAt": "2026-11-01T04:47:51Z",
+   "number": 545,
+   "title": "Delete the assets/gen manifests, their tests and seed_variation"
+  },
+  {
+   "mergedAt": "2026-11-01T02:41:24Z",
+   "number": 544,
+   "title": "Delete tools/legib; keep the R15 harness in tools/scenes"
+  },
+  {
+   "mergedAt": "2026-11-01T01:53:08Z",
+   "number": 541,
+   "title": "Delete Ninja Adventure pack and the Zero Sievert grade"
+  },
+  {
+   "mergedAt": "2026-11-01T01:37:35Z",
+   "number": 543,
+   "title": "Delete assets/experiments; move the palette and elite layout out of assets/gen"
+  },
+  {
+   "mergedAt": "2026-11-01T00:18:03Z",
+   "number": 542,
+   "title": "Stand LimeZu objects by their grammar.json footprint only"
+  },
+  {
+   "mergedAt": "2026-10-31T22:40:46Z",
+   "number": 540,
+   "title": "Furnish LimeZu sector rooms with whole pack objects"
+  },
+  {
+   "mergedAt": "2026-10-31T20:59:33Z",
+   "number": 539,
+   "title": "Stand LimeZu doors whole from their mapping.json object block"
+  },
+  {
+   "mergedAt": "2026-10-31T20:08:49Z",
+   "number": 538,
+   "title": "Draw LimeZu doors and props on a props layer over the ground"
+  },
+  {
+   "mergedAt": "2026-10-31T17:55:28Z",
+   "number": 537,
+   "title": "Play the raid and Test Scenes in one persistent LimeZu sector"
+  },
+  {
+   "mergedAt": "2026-10-31T11:50:38Z",
+   "number": 536,
+   "title": "Add LimezuWorldView to draw a LimeZu sector on the packs' TileSets"
+  },
+  {
+   "mergedAt": "2026-10-31T10:02:13Z",
+   "number": 535,
+   "title": "Add LimezuSectorMapAdapter to turn a LimeZu sector into a SectorMap"
+  },
+  {
+   "mergedAt": "2026-10-31T08:23:06Z",
+   "number": 534,
+   "title": "Theme Debrief, In-Raid Map, Lab chrome and stash card with LimeZu UI"
+  },
+  {
+   "mergedAt": "2026-10-31T06:49:21Z",
+   "number": 533,
+   "title": "Add LimezuWorldBuilder: sector layout filled with LimeZu tiles by WFC"
+  },
+  {
+   "mergedAt": "2026-10-31T05:43:42Z",
+   "number": 532,
+   "title": "Theme the raid HUD with the LimeZu Modern User Interface"
+  },
+  {
+   "mergedAt": "2026-10-31T04:52:54Z",
+   "number": 530,
+   "title": "Join interior wall corners to the side walls under them"
+  },
+  {
+   "mergedAt": "2026-10-31T04:32:07Z",
+   "number": 529,
+   "title": "Add LimezuSectorLayout: quadtree zoning plus BSP rooms as a tag grid"
+  },
+  {
+   "mergedAt": "2026-10-31T04:08:11Z",
+   "number": 531,
+   "title": "Theme lobby cards with the LimeZu Modern User Interface"
+  },
+  {
+   "mergedAt": "2026-10-31T03:42:43Z",
+   "number": 528,
+   "title": "Add LimezuComposer to resolve grammar tile strings into pack TileSets"
+  },
+  {
+   "mergedAt": "2026-10-31T01:55:51Z",
+   "number": 527,
+   "title": "Theme the title screen with the LimeZu Modern User Interface"
+  },
+  {
+   "mergedAt": "2026-10-31T01:42:34Z",
+   "number": 526,
+   "title": "Give two-row interior faces a side wall piece per face row"
+  },
+  {
+   "mergedAt": "2026-10-31T01:26:32Z",
+   "number": 525,
+   "title": "Port class-constrained LimeZu WFC to GDScript, shown in the Lab"
+  },
+  {
+   "mergedAt": "2026-10-31T01:07:12Z",
+   "number": 523,
+   "title": "Port the BSP floorplan engine to GDScript and show it in the Lab"
+  },
+  {
+   "mergedAt": "2026-10-31T00:37:42Z",
+   "number": 524,
+   "title": "Port quadtree zoning to GDScript and show it in the Design Lab"
+  },
+  {
+   "mergedAt": "2026-10-31T00:14:35Z",
+   "number": 522,
+   "title": "Key shape-suite baseline findings by place, not by their text"
+  },
+  {
+   "mergedAt": "2026-10-30T23:54:32Z",
+   "number": 521,
+   "title": "Vendor the Modern User Interface 16x16 sheets and license"
+  },
+  {
+   "mergedAt": "2026-10-30T22:57:35Z",
+   "number": 520,
+   "title": "Commit Modern Exteriors and Interiors TileSets, sources split to .res"
+  },
+  {
+   "mergedAt": "2026-10-30T22:38:32Z",
+   "number": 519,
+   "title": "Give interior wall T-joints their own tee pieces"
+  },
+  {
+   "mergedAt": "2026-10-30T19:19:32Z",
+   "number": 518,
+   "title": "Dress Divers in LimeZu premade characters; Matter as pack placeholders"
+  },
+  {
+   "mergedAt": "2026-10-30T18:04:38Z",
+   "number": 517,
+   "title": "Build one LimeZu TileSet per pack; commit Office and Farm"
+  },
+  {
+   "mergedAt": "2026-10-30T17:42:30Z",
+   "number": 516,
+   "title": "Gate interior wall seams with a pixel shape suite and a baseline"
+  },
+  {
+   "mergedAt": "2026-10-30T15:49:11Z",
+   "number": 514,
+   "title": "Offer each interior room kind its own wall styles first"
+  },
+  {
+   "mergedAt": "2026-10-30T15:07:35Z",
+   "number": 515,
+   "title": "Vendor the LimeZu 16x16 sheets, licenses and a manifest"
+  },
+  {
+   "mergedAt": "2026-10-30T12:33:36Z",
+   "number": 511,
+   "title": "Lay interior walls from labelled per-style pieces, not a learned table"
+  },
+  {
+   "mergedAt": "2026-10-30T10:57:58Z",
+   "number": 512,
+   "title": "Keep interior floor off the south wall row and its doorway"
+  },
+  {
+   "mergedAt": "2026-10-30T10:36:57Z",
+   "number": 513,
+   "title": "Lay counters, shelves and desks as whole runs; lint lone pieces"
+  },
+  {
+   "mergedAt": "2026-10-28T15:24:49Z",
+   "number": 510,
+   "title": "Back off interior wall picks to roles and the style's 3d-wall family"
+  },
+  {
+   "mergedAt": "2026-10-28T08:37:12Z",
+   "number": 509,
+   "title": "Make tools/playtest.gd the playthrough gate: out dir, solo and coop4"
+  },
+  {
+   "mergedAt": "2026-10-28T08:01:03Z",
+   "number": 508,
+   "title": "Interiors: lay walls from a room class map with a learned case table"
+  },
+  {
+   "mergedAt": "2026-10-28T07:13:30Z",
+   "number": 507,
+   "title": "Draw growth as thin curved strands with painted alpha"
+  }
+ ]
+}
